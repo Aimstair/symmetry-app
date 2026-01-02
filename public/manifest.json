@@ -1,0 +1,17 @@
+{
+  "name": "Symmetry - AI Physique Coach",
+  "short_name": "Symmetry",
+  "description": "AI-powered physique coaching app that analyzes body proportions and generates customized bodybuilding plans",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#22d3ee",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
